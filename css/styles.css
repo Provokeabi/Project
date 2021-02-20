@@ -1,0 +1,173 @@
+body {
+  background-color: #e7e6e1;
+}
+
+img {
+  border-radius: 360px;
+}
+
+li a {
+  display: block;
+}
+
+p{
+  margin: 0;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px;
+}
+
+h6 {
+  margin: 10px;
+  color: #000;
+  font-size: 12px;
+}
+
+.Course{
+  color: #845ec2;
+}
+
+i:hover {
+  color: #fb743e;
+}
+
+.column-main {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 750px;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.kated {
+  color: #fb743e;
+}
+
+.Edukated {
+  padding-bottom: 100px;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.container-fluid {
+  background-color: #e7e6e1;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-nav {
+  width: 80%;
+  position: absolute;
+  left: 20px;
+  top: 100px;
+}
+
+.fluid {
+  position: absolute;
+  width: 80%;
+  top: 300px;
+  left: 20px;
+}
+
+.temp {
+  position: relative;
+  top: 450px;
+  left: 10px;
+  height: 100px;
+  margin: 20px;
+}
+
+.alex {
+  position: relative;
+  top: 450px;
+  left: 0;
+  width: 90%;
+}
+
+.test {
+ width: 3px;
+ height: 2px;
+ border-radius:360px;
+ background-color: grey;
+ float: right;
+ box-shadow: 0 6px 0 grey, 0 12px 0 grey;
+}
+
+.image {
+  border: 2px solid #e40017;
+  margin: 4px;
+  margin-bottom: 25px;
+}
+
+.bg-img {
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.content {
+  border-radius: 10px;
+  position: relative;
+  top: 80px;
+}
+
+.tutors {
+  margin: 5px;
+  position: relative;
+  left: 20px;
+}
+
+.plus-button {
+  min-height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border-color: transparent;
+  color: #000;
+  background-color: #fff;
+  font-size: 20px;
+  padding-bottom: 6px;
+  border-width: 0;
+  float: right;
+}
+
+.rwdsbtn {
+  float: right;
+  position: relative;
+  top: 10px;
+}
+
+.right-container {
+  border-radius: 10px;
+  position: relative;
+  top: 20px;
+}
+
+.bottom{
+  margin-top: 30px;
+}
+
+.text {
+  margin: 20px;
+  padding-top: 10px;
+}
+
+.text h5 {
+  color: #fb743e;
+}
+.text h6 {
+  color: #6ddccf;
+  margin: 0;
+}
+
+.learn-btn {
+  color: #fb743e;
+  margin-top: 10px;
+}
